@@ -8,11 +8,11 @@
 </p>
 
 <p align="center">
-  <a href="https://www.codacy.com/gh/danielmonettelli/dotnetmaui-chatgpt-oss/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=danielmonettelli/dotnetmaui-chatgpt-oss&amp;utm_campaign=Badge_Grade">
+  <a href="https://www.codacy.com/gh/SuperDevMonk/chatgpt-oss/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=SuperDevMonk/chatgpt-oss&amp;utm_campaign=Badge_Grade">
   <img src="https://app.codacy.com/project/badge/Grade/9ca8b20992ef499a8930d4c8b8cebcbf" alt="Codacy Badge">
   </a>
-  <a href="https://github.com/danielmonettelli/dotnetmaui-chatgpt-oss/actions/workflows/mobile.yml">
-  <img src="https://github.com/danielmonettelli/dotnetmaui-chatgpt-oss/actions/workflows/mobile.yml/badge.svg" alt=".NET MAUI CI">
+  <a href="https://github.com/SuperDevMonk/chatgpt-oss/actions/workflows/mobile.yml">
+  <img src="https://github.com/SuperDevMonk/chatgpt-oss/actions/workflows/mobile.yml/badge.svg" alt=".NET MAUI CI">
   </a>
   <a href="CODE_OF_CONDUCT.md">
     <img src="https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg" alt="Contributor Covenant">
@@ -28,7 +28,7 @@
 
 </div>
 
-[![Main Cover](https://raw.githubusercontent.com/danielmonettelli/dotnetmaui-chatgpt-oss/main/Assets/chatgpt_main_cover.png)](#Main-Cover)
+[![Main Cover](https://raw.githubusercontent.com/SuperDevMonk/chatgpt-oss/main/Assets/chatgpt_main_cover.png)](#Main-Cover)
 
 Experience natural conversations with our **ChatGPT** application, built with **.NET MAUI** for simplicity and efficiency.
 
@@ -58,7 +58,7 @@ namespace ChatGPT.Constants
 
 ## Features
 
-|            | [<img src="https://raw.githubusercontent.com/danielmonettelli/NetMauiGPTApp/master/Assets/chatgpt.png" width="150">](#features) |
+|            | [<img src="https://raw.githubusercontent.com/SuperDevMonk/NetMauiGPTApp/master/Assets/chatgpt.png" width="150">](#features) |
 | -------------------------- | :----------------: |
 | Experience smooth animation when switching between light and dark themes        |         ✔️         |
 | Enjoy a harmonious interface on any screen size         |         In process of completion         |
@@ -68,16 +68,16 @@ namespace ChatGPT.Constants
 
 ## Supported platforms
 
-|            | [<img src="https://raw.githubusercontent.com/danielmonettelli/dotnetmaui-chatgpt-oss/main/Assets/dotnetmaui.png" width="150">](#dotnetmaui) |
+|            | [<img src="https://raw.githubusercontent.com/SuperDevMonk/dotnetmaui-chatgpt-oss/main/Assets/dotnetmaui.png" width="150">](#dotnetmaui) |
 | -------------------------- | :----------------: |
-| [<img src="https://raw.githubusercontent.com/danielmonettelli/dotnetmaui-chatgpt-oss/main/Assets/android.png" width="100">](#android) |         ✔️         |
-| [<img src="https://raw.githubusercontent.com/danielmonettelli/dotnetmaui-chatgpt-oss/main/Assets/ios.png" width="100">](#iOS) |         ✔️         |
-| [<img src="https://raw.githubusercontent.com/danielmonettelli/dotnetmaui-chatgpt-oss/main/Assets/windows.png" width="100">](#windows) |         ✔️         |
+| [<img src="https://raw.githubusercontent.com/SuperDevMonk/dotnetmaui-chatgpt-oss/main/Assets/android.png" width="100">](#android) |         ✔️         |
+| [<img src="https://raw.githubusercontent.com/SuperDevMonk/dotnetmaui-chatgpt-oss/main/Assets/ios.png" width="100">](#iOS) |         ✔️         |
+| [<img src="https://raw.githubusercontent.com/SuperDevMonk/dotnetmaui-chatgpt-oss/main/Assets/windows.png" width="100">](#windows) |         ✔️         |
 | [<img src="https://raw.githubusercontent.com/danielmonettelli/dotnetmaui-chatgpt-oss/main/Assets/macos.png" width="100">](#macos) |         ✔️         |
 
 ## Design tool
 
-| [<img src="https://raw.githubusercontent.com/danielmonettelli/NetMauiGPTApp/master/Assets/penpot.png" width="150">](https://penpot.app) |
+| [<img src="https://raw.githubusercontent.com/SuperDevMonk/NetMauiGPTApp/master/Assets/penpot.png" width="150">](https://penpot.app) |
 | -------------------------- |
 
 ## Tutorials
@@ -86,14 +86,8 @@ namespace ChatGPT.Constants
 
 ## Publications
 
-- [Building a ChatGPT in .NET MAUI Part 1.](https://danielmonettelli.github.io/posts/building-a-chatgpt-in-net-maui-part-1)
-- [Building a ChatGPT in .NET MAUI Part 2.](https://danielmonettelli.github.io/posts/building-a-chatgpt-in-net-maui-part-2)
-
-## 👥 Contributions Core
-
-| [<img src="https://avatars.githubusercontent.com/u/6038239?v=4" width="150">](https://github.com/icebeam7) | [<img src="https://avatars.githubusercontent.com/u/25359161?v=4" width="150">](https://github.com/BryanOroxon) | [<img src="https://avatars.githubusercontent.com/u/14121125?v=4" width="150">](https://github.com/danielmonettelli) |
-|:---------------------------------------------:|:---------------------------------------------:|:---------------------------------------------:|
-| **Luis Beltran** | **Bryan Oroxón** | **Daniel Monettelli** |
+- [Building a ChatGPT in .NET MAUI Part 1.](https://SuperDevMonk.github.io/posts/building-a-chatgpt-in-net-maui-part-1)
+- [Building a ChatGPT in .NET MAUI Part 2.](https://SuperDevMonk.github.io/posts/building-a-chatgpt-in-net-maui-part-2)
 
 ## Open Source ❤
 
